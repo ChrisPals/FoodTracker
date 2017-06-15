@@ -2,7 +2,7 @@
 //  RatingControl.swift
 //  FoodTracker
 //
-//  Created by Christoffer Palsgaard on 08/06/2017.
+//  Created by Christoffer Palsgaard on 14/06/2017.
 //  Copyright © 2017 Christoffer Palsgaard. All rights reserved.
 //
 
